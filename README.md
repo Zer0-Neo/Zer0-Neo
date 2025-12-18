@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Zer0-Neo 👋
 
-<!--
-**Zer0-Neo/Zer0-Neo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about penetration testing and CTF challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Focus Areas
+- Web Application Security
+- Binary Exploitation
+
+### 📝 CTF Writeups
+Check out my writeups: [CTF-Writeups](https://github.com/Zer0-Neo/CTF-Writeups)
+
+### 🔗 Connect
+- **TryHackMe:** [ZeroNeo](https://tryhackme.com/p/ZeroNeo)
+- **HackerOne:** [ZeroNeo](https://hackerone.com/ZeroNeo)
