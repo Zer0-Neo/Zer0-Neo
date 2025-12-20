@@ -1,4 +1,4 @@
-# Hi, I'm Zer0-Neo 👋
+# Hi, I'm Ne0Prime 👋
 
 ## 🔐 Cybersecurity Enthusiast
 
@@ -12,5 +12,5 @@ I'm passionate about penetration testing and CTF challenges.
 Check out my writeups: [CTF-Writeups](https://github.com/Zer0-Neo/CTF-Writeups)
 
 ### 🔗 Connect
-- **TryHackMe:** [ZeroNeo](https://tryhackme.com/p/ZeroNeo)
-- **HackerOne:** [ZeroNeo](https://hackerone.com/ZeroNeo)
+- **TryHackMe:** [Ne0Prime](https://tryhackme.com/p/Ne0Prime)
+- **HackerOne:** [NeoPrime](https://hackerone.com/NeoPrime)
